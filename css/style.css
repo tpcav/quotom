@@ -356,7 +356,7 @@ a {
           font-weight: 700;
         }
         .theme-btn {
-          background-color: #18947d;
+          background-color: #007bff;
           padding: 16px 50px;
           text-decoration: none;
           color: #ffffff;
@@ -369,6 +369,6 @@ a {
         }
         .theme-btn:hover {
           background-color: transparent;
-          color: white;
-          border: 1px solid #ffffff;
+          color: rgb(0, 0, 0);
+          border: 2px solid #007bff;
         }
